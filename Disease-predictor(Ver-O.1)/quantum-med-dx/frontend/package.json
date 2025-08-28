@@ -1,0 +1,29 @@
+{
+  "name": "quantum-med-dx",
+  "version": "1.0.0",
+  "description": "A project for quantum medical diagnostics leveraging advanced AI techniques.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "tailwindcss": "^2.2.19",
+    "postcss": "^8.4.6",
+    "vite": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0"
+  },
+  "keywords": [
+    "quantum",
+    "medical",
+    "AI",
+    "diagnostics"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

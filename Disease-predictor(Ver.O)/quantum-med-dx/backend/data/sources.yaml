@@ -1,0 +1,7 @@
+sources:
+  - disease: Influenza
+    url: https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719
+  - disease: Dengue
+    url: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
+  - disease: Migraine
+    url: https://www.medlineplus.gov/migraine.html

@@ -1,0 +1,15 @@
+# /backend/requirements.txt
+flask
+flask-cors
+pydantic
+python-dotenv
+uvicorn
+numpy
+# Core AI/ML Libs
+google-generativeai
+sentence-transformers
+chromadb
+# Quantum
+qiskit
+qiskit-aer
+langchain

@@ -1,0 +1,38 @@
+[
+    {
+        "disease": "Common Cold",
+        "url": "https://www.example.com/common-cold",
+        "content": {
+            "Symptoms": "Key signs include: Runny or stuffy nose, Sore throat, Cough, Congestion, Slight body aches or a mild headache, Sneezing, Low-grade fever. Symptoms usually appear one to three days after exposure.",
+            "Diagnosis": "A doctor can typically diagnose a common cold from signs and symptoms. Tests are usually not needed. The focus is on ruling out other conditions like influenza or bacterial infections if symptoms are severe.",
+            "Red-flags": "Seek medical attention for: a fever greater than 101.3 F (38.5 C), fever lasting more than five days, shortness of breath, severe sore throat, or sinus pain."
+        }
+    },
+    {
+        "disease": "Influenza (Flu)",
+        "url": "https://www.example.com/influenza",
+        "content": {
+            "Symptoms": "Common flu symptoms are: sudden high fever, aching muscles, chills and sweats, headache, dry and persistent cough, fatigue and weakness. It comes on much faster than a common cold.",
+            "Diagnosis": "Diagnosis is often based on symptoms during flu season. Rapid influenza diagnostic tests can detect the virus from a nose or throat swab, providing results in about 15 minutes.",
+            "Red-flags": "Emergency warning signs include: difficulty breathing, chest pain, persistent dizziness or confusion, seizures, and severe muscle pain."
+        }
+    },
+    {
+        "disease": "Migraine",
+        "url": "https://www.example.com/migraine",
+        "content": {
+            "Symptoms": "A migraine is a severe throbbing headache, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Some people experience an aura with visual disturbances beforehand.",
+            "Diagnosis": "A neurologist diagnoses migraines based on medical history, symptoms, and a neurological exam. Imaging tests like an MRI might be used to rule out other serious causes like a tumor or stroke.",
+            "Red-flags": "Go to an emergency room for: an abrupt, severe headache like a thunderclap, headache with fever and stiff neck, confusion, seizures, or double vision."
+        }
+    },
+    {
+        "disease": "Allergic Rhinitis (Hay Fever)",
+        "url": "https://www.example.com/allergies",
+        "content": {
+            "Symptoms": "Symptoms can include: sneezing, runny or stuffy nose, itchy or watery eyes, and itching of the nose or roof of the mouth. Unlike a cold, hay fever doesn't cause a fever.",
+            "Diagnosis": "Diagnosis is based on an exam and symptoms. An allergist may perform a skin prick test or a blood test to identify specific allergens causing the reaction.",
+            "Red-flags": "Severe reactions (anaphylaxis) are rare but require immediate medical attention. Signs include trouble breathing, hives, and swelling of the throat."
+        }
+    }
+]

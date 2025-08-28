@@ -1,0 +1,8 @@
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:#f7f8fb; color:#111 }
+.container { max-width: 980px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 12px; box-shadow: 0 6px 20px rgba(16,24,40,0.04) }
+input, button, select, textarea { font-family:inherit; padding:8px; border-radius:8px; border:1px solid #e6e6e6 }
+button { cursor:pointer; background:#0f172a; color:#fff; border:none }
+.table-preview { width:100%; border-collapse:collapse }
+.table-preview th, .table-preview td { padding:8px 10px; border-bottom:1px solid #f0f0f0; text-align:left; font-size:13px }
+.small-muted { color:#666; font-size:13px }
+.preview-wrap { overflow-x:auto; max-height:360px; }

@@ -1,0 +1,26 @@
+data_sources:
+  - name: source1
+    type: api
+    url: https://api.example.com/data
+    method: GET
+    headers:
+      Authorization: Bearer YOUR_API_KEY
+    params:
+      param1: value1
+      param2: value2
+
+  - name: source2
+    type: database
+    connection_string: postgres://user:password@localhost:5432/mydatabase
+    query: SELECT * FROM my_table WHERE condition = true
+
+  - name: source3
+    type: file
+    path: /path/to/local/file.csv
+    delimiter: ","
+    encoding: utf-8
+
+  - name: source4
+    type: web_scraping
+    url: https://example.com
+    css_selector: ".data-class"
